@@ -9,7 +9,7 @@ def summon_captain_planet(planeteer_calls)
 end
 
 def long_planeteer_calls(planeteer_calls)
-  # tell us if any of the calls are longer than four characters
+  planeteer_calls.any? 
 end
 
 def find_the_cheese(array_of_strings)
