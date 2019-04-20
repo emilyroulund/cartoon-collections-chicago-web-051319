@@ -15,6 +15,7 @@ end
 def find_the_cheese(array_of_strings)
   # find and return the first string that is a type of cheese.
   cheese_types = ["cheddar", "gouda", "camembert"]
+  a.include? 
   #If, sadly, a list of ingredients does not include cheese, return nil 
   # include method for him 
 end
