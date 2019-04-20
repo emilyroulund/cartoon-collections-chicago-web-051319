@@ -5,8 +5,7 @@ def roll_call_dwarves (dwarf_names)
 end
 
 def summon_captain_planet(planeteer_calls)
-  # capitalize each element and add an exclamation point at the end
-  # map or collect 
+ planeteer_calls.collect do |calls|.capitalize 
 end
 
 def long_planeteer_calls(planeteer_calls)
