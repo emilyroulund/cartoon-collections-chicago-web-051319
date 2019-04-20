@@ -13,9 +13,7 @@ def long_planeteer_calls(planeteer_calls)
 end
 
 def find_the_cheese(array_of_strings)
-  # find and return the first string that is a type of cheese.
   cheese_types = ["cheddar", "gouda", "camembert"]
-  a.include? 
-  #If, sadly, a list of ingredients does not include cheese, return nil 
-  # include method for him 
+  array_of_strings.include? (cheese_types)
+
 end
